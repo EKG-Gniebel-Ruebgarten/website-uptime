@@ -6,7 +6,7 @@ sites:
   - name: EKG Gniebel Rübgarten
     url: https://neu.ekg-gniebel-ruebgarten.de
   - name: EKG Gniebel Rübgarten (falsch)
-    url: https://neue.eeeekg-gniebel-ruebgarten.de
+    url: https://neue.eeekg-gniebel-ruebgarten.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
