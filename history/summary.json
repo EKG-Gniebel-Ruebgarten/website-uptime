@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1399,
-    "timeDay": 1399,
-    "timeWeek": 1399,
-    "timeMonth": 1399,
-    "timeYear": 1399,
+    "time": 1381,
+    "timeDay": 1381,
+    "timeWeek": 1381,
+    "timeMonth": 1381,
+    "timeYear": 1381,
     "dailyMinutesDown": {}
   },
   {
     "name": "EKG Gniebel Rübgarten (falsch)",
-    "url": "https://neue.eeeekg-gniebel-ruebgarten.de",
-    "icon": "https://favicons.githubusercontent.com/neue.eeeekg-gniebel-ruebgarten.de",
+    "url": "https://neue.eeekg-gniebel-ruebgarten.de",
+    "icon": "https://favicons.githubusercontent.com/neue.eeekg-gniebel-ruebgarten.de",
     "slug": "ekg-gniebel-ruebgarten-falsch",
     "status": "down",
-    "uptime": "0.43%",
-    "uptimeDay": "0.43%",
-    "uptimeWeek": "0.43%",
-    "uptimeMonth": "0.43%",
-    "uptimeYear": "0.43%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 4
+      "2021-10-12": 8
     }
   }
 ]
