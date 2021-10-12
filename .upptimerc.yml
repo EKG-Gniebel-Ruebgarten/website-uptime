@@ -22,8 +22,6 @@ status-website:
       href: /
     - title: Zu unserer Seite
       href: https://ekg-gniebel-ruebgarten.de
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
