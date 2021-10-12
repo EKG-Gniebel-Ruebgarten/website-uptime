@@ -20,6 +20,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Zu unserer Seite
+      href: https://ekg-gniebel-ruebgarten.de
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
