@@ -44,7 +44,7 @@ i18n:
   incidentCommentSummary: Gepostet am $DATE von $AUTHOR
   incidentBack: ← Zurück zu allen Incidents
   pastIncidents: Vorherige Incidents
-  pastIncidentsResolved: In $MINUTES minuten mit $POSTS Posts gelöst
+  pastIncidentsResolved: In $MINUTES Minute(n) mit $POSTS Post(s) gelöst
   liveStatus: Live-Status
   overallUptime: "Gesamte Uptime: $UPTIME"
   overallUptimeTitle: Gesamte Uptime
