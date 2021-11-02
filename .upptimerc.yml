@@ -5,6 +5,10 @@ repo: website-uptime # The name of this repository
 sites:
   - name: EKG Gniebel Rübgarten
     url: https://neu.ekg-gniebel-ruebgarten.de
+  - name: Medien-Doku
+    url: https://medien.doku.ekg-gniebel-ruebgarten.de
+  - name: Backend-Doku
+    url: https://backend.doku.ekg-gniebel-ruebgarten.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
