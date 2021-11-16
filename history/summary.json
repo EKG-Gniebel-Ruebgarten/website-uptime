@@ -4,18 +4,20 @@
     "url": "https://neu.ekg-gniebel-ruebgarten.de",
     "icon": "https://favicons.githubusercontent.com/neu.ekg-gniebel-ruebgarten.de",
     "slug": "ekg-gniebel-ruebgarten",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1556,
-    "timeDay": 1634,
-    "timeWeek": 1492,
-    "timeMonth": 1557,
-    "timeYear": 1556,
-    "dailyMinutesDown": {}
+    "time": 1594,
+    "timeDay": 2417,
+    "timeWeek": 1706,
+    "timeMonth": 1605,
+    "timeYear": 1594,
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Medien-Doku",
