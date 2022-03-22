@@ -9,8 +9,8 @@ sites:
     url: $BACKEND_URL
   - name: Medien-Doku
     url: https://medien.doku.ekg-gniebel-ruebgarten.de
-  - name: Backend-Doku
-    url: https://backend.doku.ekg-gniebel-ruebgarten.de
+  - name: Dokumentation
+    url: https://doku.ekg-gniebel-ruebgarten.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
