@@ -1,7 +1,7 @@
 url: $BACKEND_URL
 status: down
 code: 502
-responseTime: 502
-lastUpdated: 2022-04-03T23:09:33.491Z
+responseTime: 422
+lastUpdated: 2022-04-04T23:11:34.746Z
 startTime: Tue Nov 16 2021 17:08:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
